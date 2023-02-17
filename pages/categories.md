@@ -1,11 +1,10 @@
 ---
-layout: page
-title: Categories
-permalink: /Categories/
-order: 2
+layout: categories
+icon: fas fa-stream
+order: 1
 ---
 
-test
+this should change
 <details>
     <summary>Scanners</summary>
     <a href="https://github.com/OJ/gobuster">Gobuster</a>
