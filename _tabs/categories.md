@@ -11,7 +11,7 @@ order: 1
   <p><a href="https://github.com/epi052/feroxbuster">Feroxbuster</a></p>
 </details>
 
-<ul class="nav nav-tabs">
+<!-- <ul class="nav nav-tabs">
   <li class="nav-item dropdown">
     <a
       class="nav-link dropdown-toggle"
@@ -35,7 +35,7 @@ order: 1
       <li><a class="dropdown-item" href="#">Separated link</a></li>
     </ul>
   </li>
-</ul>
+</ul> -->
 
 #<details>
 #  <summary>Fuzzers</summary>
